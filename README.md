@@ -7,8 +7,12 @@ Anforderungen ein einfaches Testszenario überlegt (siehe
 `TimeConversionService.feature`)
 
 ## Aufgabe 1
-Installiere das Android Studio Plugin `Test Automation Gears` und führe 
-anschließend den `TimeConversionServiceTest` aus.
+Installiere folgende Android Studio Plugins 
+* Cucumber for Java
+* Cucumber for Kotlin
+* Gherkin
+
+und führe anschließend den `TimeConversionServiceTest` aus.
 
 Analysiere die Datei `TimeConversionService.feature`, sowie den Glue-
 Code in der Klasse `TimeConversionServiceStepDefinitions`. 
